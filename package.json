@@ -1,0 +1,24 @@
+{
+  "name": "crud-node-mysql",
+  "version": "1.0.0",
+  "description": "WebService crud-node-mysql",
+  "engines": {
+    "node": "6.10.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "1.15.2",
+    "cors": "2.7.1",
+    "express": "4.10.6",
+    "mysql": "2.11.1"
+  },
+  "keywords": [
+    "node",
+    "crud",
+    "mysql"
+  ],
+  "author": "HenryQRM",
+  "license": "ISC"
+}
